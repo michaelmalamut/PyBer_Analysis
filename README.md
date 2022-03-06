@@ -2,6 +2,17 @@
 ## Overview of the Analysis
 The purpose of this project is to collect, analyze and then create a visualization of PyBer ride sharing data by each city type. This will help to visualize and understand the performance and trends of the ridesharing company.
 
+## Results:
+### Overview of PyBer Data
+![Pyber_data](https://user-images.githubusercontent.com/97328622/156944719-ba152972-fc8e-4199-897e-f6362e1b138c.png)
 
-## Results
+*Urban cities generate the most rides and total fares
+*Rural generates the lowest rides and total fares
+*Rural has the highest fare per ride but still has the lowest total fares out of both Urban and Suburban
+*Urban cities have more drivers then Rural and Suburban combined leading Urban to collect the highest total fares
+
+![Pyber_fare_summary](https://user-images.githubusercontent.com/97328622/156944741-aef4bc78-5328-4f49-ac6e-a065b7f24e9c.png)
+
+
+
 ## Summary
