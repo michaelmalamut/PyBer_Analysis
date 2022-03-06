@@ -13,6 +13,5 @@ The purpose of this project is to collect, analyze and then create a visualizati
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/97328622/156944741-aef4bc78-5328-4f49-ac6e-a065b7f24e9c.png)
 
-
-
 ## Summary
+Based on my analysis of the PyBer ride sharing data, I have come to multiple business recommendations for the CEO. One being to increase the total number of drivers in Rural areas to help to meet the demand of the population in that area. In Urban areas, I would recommend decreasing the total amount of drivers, simply because the amount of drivers nearly doubles the total rides, the CEO can think about moving some Urban drivers to Rural areas to help and meet the demand of rides. Finally, the CEO should increase the price of fares per ride in Urban areas so that they can keep up with the volume of extra drivers.
